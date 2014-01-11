@@ -33,4 +33,4 @@ I'm a junior full-stack web developer based in London looking for a junior devel
 Makers Academy is a highly selective, 12 week full-time program that teaches web development. They teach Ruby on Rails, HTML5, CSS, Javascript, Jquery, Git, Heroku and Agile methodologies.
 
 ##Contact
-You can contact me on [Twitter](http://www.twitter.com/hamchapman), [LinkedIn](http://www.linkedin.com/in/hamiltonchapman) or via [email](mailto://hamchapman@gmail.com).
+You can contact me on [Twitter](http://www.twitter.com/hamchapman), [LinkedIn](http://www.linkedin.com/in/hamiltonchapman) or via [email](mailto:hamchapman@gmail.com).

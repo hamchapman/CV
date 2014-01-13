@@ -26,7 +26,7 @@ I'm a junior full-stack web developer based in London looking for a junior devel
 - CSS3
 
 ###Learning
-- Objectice-C
+- Objective-C
 
 ##Education
 ###Makers Academy: September 2013 - December 2013

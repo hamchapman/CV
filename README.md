@@ -36,4 +36,4 @@ Makers Academy is a highly selective, 12 week full-time program that teaches web
 1st class degree in Maths
 
 ##Contact
-You can contact me on [Twitter](http://www.twitter.com/hamchapman), [LinkedIn](http://www.linkedin.com/in/hamiltonchapman) or via [email](mailto:hamchapman@gmail.com).
+You can contact me on [Twitter](http://www.twitter.com/hamchapman), [LinkedIn](http://www.linkedin.com/in/hamiltonchapman), [email](mailto:hamchapman@gmail.com), or call 07850750114.
